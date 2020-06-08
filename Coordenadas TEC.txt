@@ -1,0 +1,147 @@
+Coordenadas del tecnológico de Tepic 
+
+Nombre: Laboratorio de cómputo
+Posicion1: 21.477782, -104.866999
+Posicion2: 21.478301, -104.867295
+Dentro: Sala A, Sala B, CISCO, SO, Aula de estudio, Baños, Sala de Maestros
+
+Nombre: Bastón salones
+Posicion1: 21.477408, -104.866778
+Posicion2: 21.477875, -104.867370
+Dentro: Aulas, Baños
+
+Nombre: Bastón Oficionas
+Posicion1: 21.477981, -104.866598
+Posicion2: 21.477309, -104.866396
+Dentro: Oficinas, Baños
+
+Nombre: Entrada Peatonal Av. Tecnológico
+Posicion1: 21.476887, -104.866489
+Posicion2: 21.477095, -104.866698
+Dentro: Entrada
+************************************
+Nombre: Entrada Peatonal 2 de Agosto
+Posicion1: 21.479410, -104.867129
+Posicion2: 21.479030, -104.867024
+Dentro: Entrada
+
+Nombre: Kiosko IT Tepic
+Posicion1: 21.479460, -104.865818
+Posicion2: 21.479237, -104.865765
+Dentro: Comedores
+
+Nombre: IMAGEN Tec
+Posicion1: 21.479584, -104.865481
+Posicion2: 21.479410, -104.865376
+Dentro: Tienda de artículos del Tec
+
+Nombre: Edificio J
+Posicion1: 21.479237, -104.866381
+Posicion2: 21.478892, -104.866037
+Dentro: Papelería, Aulas
+
+Nombre: Centro de idiomas UVP
+Posicion1: 21.478395, -104.868077
+Posicion2: 21.477953, -104.867683
+Dentro: Aulas, Baños, Servicio Social, Centro de idiomas
+
+Nombre: Depto de Recursos Financieros
+Posicion1: 21.478712, -104.865813
+Posicion2: 21.478335, -104.865521
+Dentro: Oficinas, Dirección, Subdirección, Pagos, Administración
+
+Nombre: Centro de Información
+Posicion1: 21.478787, -104.865306
+Posicion2: 21.478313, -104.865001
+Dentro: Sala de proyección, biblioteca, centro de copiado, hemeroteca, baños
+
+Nombre: Cancha 1 de fútbol
+Posicion1: 21.481884, -104.863692
+Posicion2: 21.480661, -104.863450
+Dentro: Cancha de fútbol
+
+Nombre: Cancha 2 y 3 de fútbol
+Posicion1: 21.480993, -104.864574
+Posicion2: 21.479418, -104.864065
+Dentro: Canchas de fútbol
+
+Nombre: Cancha de Béisbol
+Posicion1: 21.482341, -104.864933
+Posicion2: 21.480923, -104.864236
+Dentro: Cancha de béisbol
+
+Nombre: Cancha 4 de fútbol
+Posicion1: 21.481133, -104.866162
+Posicion2: 21.480040, -104.865893
+Dentro: Cancha de fútbol
+
+Nombre: Domo Deportivo
+Posicion1: 21.481457, -104.865507
+Posicion2: 21.480678, -104.865030
+Dentro: Cancha de basketbol, Departamento de Actividades Complementarias, Baños
+
+Nombre: Estacionamiento UVP
+Posicion1: 21.478305, -104.867615
+Posicion2: 21.477782, -104.867428
+Dentro: Estacionamiento
+
+Nombre: Estacionamiento LC
+Posicion1: 21.478159, -104.866914
+Posicion2: 21.477732, -104.866410
+Dentro: Estacionamiento
+
+Nombre: Edificio UD
+Posicion1: 21.477957, -104.866113
+Posicion2: 21.477576, -104.865775
+Dentro: Aulas, Oficinas, Nuevo Ingreso, Baños
+
+Nombre: Iguanera UD
+Posicion1: 21.478044, -104.866218
+Posicion2: 21.477953, -104.866141
+Dentro: Iguanera, Máquina de refrescos
+
+Nombre: Rotonda del Titulado
+Posicion1: 21.478725, -104.867001
+Posicion2: 21.478196, -104.866681
+Dentro: Campana
+
+Nombre: Plaza Tec
+Posicion1: 21.478996, -104.866007
+Posicion2: 21.478804, -104.865904
+Dentro: Bancas
+___________________________________________________
+
+Nombre: Edificio LICBI
+Posicion1: 21.479868, -104.867133
+Posicion2: 21.479409, -104.866967
+Dentro: Aulas, Baños, Laboratorios
+
+Nombre: Edificio K
+Posicion1: 21.479483, -104.866298
+Posicion2: 21.479248, -104.865995
+Dentro: Aulas
+
+Nombre: Edificio Laboratorios de Bioquímica
+Posicion1: 21.479867, -104.865895
+Posicion2: 21.479674, -104.865647
+Dentro: Laboratorios
+
+Nombre: Edificio Q
+Posicion1: 21.479678, -104.865181
+Posicion2: 21.479496, -104.864929
+Dentro: Aulas
+
+Nombre: Edificio X
+Posicion1: 21.479466, -104.865234
+Posicion2: 21.479279, -104.864977
+Dentro: Aulas
+
+Nombre: Cafetería
+Posicion1: 21.478734, -104.867013 
+Posicion2: 21.478471, -104.86678
+Dentro: Comedores
+
+Nombre: Edificio Laboratorios de Mecatrónica
+Posicion1: 21.479084, -104.866846
+posicion2: 21.478814, -104.866625
+Dentro: Laboratorios

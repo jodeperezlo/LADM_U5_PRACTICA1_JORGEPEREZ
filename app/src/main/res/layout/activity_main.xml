@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lblActual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Ubicación Actual:"
+        android:textColor="#0000FF"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/lblEstas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="ESTÁS EN:"
+        android:textColor="#C59404"
+        android:textSize="15sp" />
+
+    <EditText
+        android:id="@+id/txtBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="sans-serif-condensed"
+        android:hint="NOMBRE DE LA UBICACIÓN" />
+
+    <Button
+        android:id="@+id/btnBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUSCAR UBICACIÓN"
+        android:layout_marginTop="5dp"
+        android:background="#A6E161"
+        android:fontFamily="sans-serif-black"
+        android:textColor="#686464"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/lblBuscar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:padding="10dp"
+        android:fontFamily="serif-monospace"
+        android:text="Aquí aparecerá su busqueda" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/lblUbicaciones"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-light"
+                android:text="UBICACIONES:"
+                android:textColor="#FF0000"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

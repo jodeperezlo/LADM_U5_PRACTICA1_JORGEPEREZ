@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754434446907",
+    "firebase_url": "https://u5practica1firebase.firebaseio.com",
+    "project_id": "u5practica1firebase",
+    "storage_bucket": "u5practica1firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754434446907:android:5a27a52ff7ca0b925e2e1e",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_practica1_jorgeperez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754434446907-h231rh7af5tfc7f383jdrbrof7t5vosp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvj19xxJRkpQjDbztUfV1ukqfz4TksB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754434446907-h231rh7af5tfc7f383jdrbrof7t5vosp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
